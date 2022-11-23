@@ -3,14 +3,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 天猫前端
+      title: 我的前端猫
 
-title: 天猫前端
-description: 天猫前端
+title: 我的前端猫
+description: 我的前端猫
 url: "http://tmallfe.github.io"
 
 author:
-  name: 天猫前端
+  name: 我的前端猫
   email: join-tmallfe@list.alibaba-inc.com
   github: tmallfe
   bio: keep calm and carry on!
